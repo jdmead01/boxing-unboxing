@@ -1,0 +1,22 @@
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.deps.json
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.json
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.dev.json
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.dll
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.pdb
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.csprojResolveAssemblyReference.cache
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfoInputs.cache
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfo.cs
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.dll
+C:/Users/Gateway/RedoCSharp/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/bin/Debug/netcoreapp2.0/BoxingUnboxing.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/CSharp_Projects-master/BoxingUnboxing/BoxingUnboxing/obj/Debug/netcoreapp2.0/BoxingUnboxing.pdb
